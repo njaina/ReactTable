@@ -1,15 +1,14 @@
 # Getting Started React
-Si vous voulez lancer cette application :
-### Vous devrez d'abord installer l'application de base de react avec :
+####Pour lancer cette application :
+### Vous devrez d'abord installer l'application de base de react pour récuperer le package "node-module"
+avec la commande :
 "npx create-react-app app_name"
 "cd app_name"
+## après, déplacer le dossier node-module dans cet repository une fois qu'il soit disponible localement dans votre machine
+##pour la lancer,
+#-ouvrez le terminal dans le dossier et ecrivez :
 "npm start"
 
-
-Et avec le package template offert par react
-## Vous devrez mettre les fichier dans les dossier en fonction de les branches
-Par exemple : si App.js est dans la branche "src", alors il devra être dans le dossier src de l'application
-#et les fichiers qui sont dans la branche "containers" sont tous dans le dossier src :)
 
 
 
